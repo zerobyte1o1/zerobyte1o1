@@ -12,7 +12,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=zerobyte1o1" alt="访客统计" />
+    <a href="https://blog.csdn.net/zerobyte_?type=blog"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
