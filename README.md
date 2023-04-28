@@ -12,7 +12,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=zerobyte1o1" alt="访客统计" />
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
