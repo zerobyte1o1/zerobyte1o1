@@ -33,7 +33,7 @@
 <p>&emsp;&emsp;大家好，我是小刘同学。</p>
 <p>&emsp;&emsp;本科就读于中北大学软件工程专业。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深测试工程师!</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过精进测试技术构建完美测试体系。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </td></tr>
 
