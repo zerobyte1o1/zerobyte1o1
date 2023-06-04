@@ -76,8 +76,8 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zerobyte1o1&repo=IAM_UI&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/zerobyte1o1/gensp">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zerobyte1o1&repo=gensp&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/zerobyte1o1/JiraDataStatistics">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zerobyte1o1&repo=JiraDataStatistics&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<a href="https://github.com/zerobyte1o1/mitmproxy2metersphere">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zerobyte1o1&repo=mitmproxy2metersphere&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 <br><br>
 
 </div>
